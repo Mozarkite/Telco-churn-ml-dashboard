@@ -35,6 +35,11 @@ The Jupyter Notebook covers:
 - **Metrics**: Classification report along with Confusion Matrix
 - **Evaluation**: Accuracy, Precision, Recall, F1-score, ROC-AUC.
 
+## 📈 Plotly graphs
+NOTE : github DOES NOT load **Plotly Graphs** into jupyter notebook. 
+For this reason, i included them in the assets folder as pngs
+
+
 📓 Notebook: `Customer Churn Predictor Analysis.ipynb`
 
 ---
